@@ -5,7 +5,7 @@ account: estech
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11554782
-bundleId:
+bundleId: 8406669
 url: https://estech.shinyapps.io/juno_sotf/
 version: 1
 asMultiple: FALSE
