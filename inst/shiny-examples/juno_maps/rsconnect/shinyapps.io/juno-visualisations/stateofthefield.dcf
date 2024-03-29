@@ -1,0 +1,12 @@
+name: stateofthefield
+title: stateofthefield
+username: juno-visualisations
+account: juno-visualisations
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11613921
+bundleId: 8431703
+url: https://juno-visualisations.shinyapps.io/stateofthefield/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
